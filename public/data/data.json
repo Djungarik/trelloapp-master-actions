@@ -1,0 +1,90 @@
+{
+  "boards": [
+    {
+      "name": "space travel plan",
+      "user": 0,
+      "id": 39508929046,
+      "starred": false,
+      "created": "2022-11-19"
+    },
+    {
+      "name": "new board",
+      "user": 0,
+      "id": 88733765341,
+      "starred": false,
+      "created": "2022-11-30"
+    },
+    {
+      "name": "new board",
+      "user": 0,
+      "id": 6504935259,
+      "starred": false,
+      "created": "2022-11-30"
+    },
+    {
+      "name": "new board",
+      "user": 1,
+      "id": 39418093668,
+      "starred": false,
+      "created": "2022-11-30"
+    },
+    {
+      "name": "new board",
+      "user": 0,
+      "id": 38439371055,
+      "starred": false,
+      "created": "2022-11-30"
+    },
+    {
+      "name": "space travel plan",
+      "user": 0,
+      "id": 59347842766,
+      "starred": false,
+      "created": "2023-01-12"
+    },
+    {
+      "name": "new board",
+      "user": 0,
+      "id": 9708408935,
+      "starred": false,
+      "created": "2023-01-12"
+    },
+    {
+      "name": "space travel plan",
+      "user": 0,
+      "id": 46103441361,
+      "starred": false,
+      "created": "2023-01-12"
+    },
+    {
+      "name": "new board",
+      "user": 0,
+      "id": 7247903259,
+      "starred": false,
+      "created": "2023-01-12"
+    },
+    {
+      "name": "space travel plan",
+      "user": 0,
+      "id": 64606417582,
+      "starred": false,
+      "created": "2023-01-16"
+    },
+    {
+      "name": "new board",
+      "user": 0,
+      "id": 12040120537,
+      "starred": false,
+      "created": "2023-01-16"
+    }
+  ],
+  "tasks": [],
+  "users": [
+    {
+      "email": "berezhnoy.tim@gmail.com",
+      "password": "$2a$10$dFOKX0C4JzBvb8icnDr5c.pac7mJO8qPmqLgGiPbSf261G3ZqPLmC",
+      "id": 1
+    }
+  ],
+  "lists": []
+}
